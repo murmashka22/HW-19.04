@@ -23,18 +23,19 @@ body{
 }
 
 .TABLE_CELL{
-    width: 8%;
+    width: 7%;
     padding: 0;
     margin: 0;
 }
 
 .ROWS{
-    width: 6%;
+    width: 5%;
     text-align: center;
+    font-size: 10px;
 }
 
 .PERIODS{
-    width: 6%;
+    width: auto;
     text-align: center;
 }
 
@@ -45,4 +46,13 @@ body{
 
 .RED{
     background-color: #EC5AA3;
+}
+
+.YELLOW{
+    background-color: yellow;
+}
+
+img{
+
+    width: 100%;
 }
