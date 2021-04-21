@@ -3,12 +3,17 @@ table,td,tr{
     border-collapse: collapse;
 }
 table{
-    width: 100%;
+    width: 70%;
+    margin: auto;
 }
 
 body{
     margin: 0;
     padding: 0;
+}
+
+.NAME_TABLE{
+    font-size: 23px;
 }
 
 .Element {
@@ -29,13 +34,12 @@ body{
 }
 
 .ROWS{
-    width: 5%;
+    width: 2%;
     text-align: center;
-    font-size: 10px;
 }
 
 .PERIODS{
-    width: auto;
+    width: 2%;
     text-align: center;
 }
 
@@ -52,7 +56,25 @@ body{
     background-color: yellow;
 }
 
-img{
+.BLUE{
+    background-color: aquamarine;
+}
 
+img{
     width: 100%;
+}
+
+.NUMBER_MASSA_OBRATNOE{
+    text-align: left;
+    float: left;
+    margin: 0;
+}
+.Elemen_OBRATNOE {
+    font-size: 28px;
+    text-align: right;
+    margin: 0;
+}
+
+.GROUPS{
+    text-align: center;
 }
