@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+    margin: 5px;
+    font-size: 30px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    float: left;
+    height: 50%;
+    width: 30%;
+}
+
+.feedback{
+    float: left;
+    margin-left: 200px;
+}
+.aboutme{
+    float: left;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.aboutme, .feedback{
+    border-radius: 5px;
+    border: 1px solid #000;
+}
